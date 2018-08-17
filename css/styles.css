@@ -1,0 +1,46 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Ubuntu', sans-serif;
+	margin: 0 auto;
+	width: 1200px;
+}
+
+.headings{
+	text-align: center;
+}
+
+form{
+	background: #f1f1f1;
+	padding: 20px 20px;
+	box-shadow: 2px 2px 5px 1px rgba(0,0,0,0.1);
+    border-radius: 5px;
+	margin: 90px 5px;
+}
+
+
+input{
+  padding: 15px;
+  width: 80%;
+  margin-bottom: 30px;
+}
+
+#search-submit {
+  padding: 19px 39px 18px 39px;
+  color: #ffffff;
+  background-color: #2471A3;
+  font-size: 18px;
+  text-align: center;
+  width: 20%;
+  margin-bottom: 30px;
+  border: 1px solid #2471A3;
+ }
+ 
+ .wrapper{
+	 display:flex;
+	 flex-wrap: wrap;
+ }
+ 
+ 
